@@ -8,11 +8,11 @@ PHP Version 5.6.30 or higher !
 
 
 1. Install tools it's located in Requirments file.
-2. Download, extract files.
+2. Download files.
 3. Copy this files Config.php & index.php to ( C:\xampp\htdocs ).
 4. Go to ( C:\xampp ) and open ( xampp-control ).
 5. After open ( xampp-control ), click on start at (Apache & MySQL) and don't close a program.
-6. Open your browser and write ( http://localhost/phpmyadmin/ ) and import file database to phpMyAdmin from task folder ( api.sql )
+6. Open your browser and write ( http://localhost/phpmyadmin/ ) and import ( api.sql ) file database to phpMyAdmin.
 7. Open new tab in your browser and write ( localhost ) and click enter.
 8. Profit!
 
